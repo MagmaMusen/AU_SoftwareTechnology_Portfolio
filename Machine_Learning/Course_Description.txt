@@ -1,0 +1,30 @@
+Motivation:
+
+The use of machine learning is increasing, both in private companies and in the public sector. As a consequence, the demand for qualified labour and independent ‘entrepreneurs’ is also rising, and it is expected to continue to do so.
+
+
+In order to maintain competitiveness, we need to educate skilled engineers, who not only understand how to use machine learning in practice, but who are also able to provide guidance and counselling in where and when these techniques can and cannot be used.
+
+
+The basic principles of machine learning have a long history and form a significant mathematical ‘backdrop’ to the current development of machine learning algorithms. Many other engineering disciplines also incorporate these basic principles, and it is very important to understand the connection between modern machine learning and classic engineering methods.
+
+ 
+
+Learning outcomes:
+
+When the course is completed, the students are expected to be able to:
+
+Explain the essential concepts in machine learning terminology and the principles in a machine learning pipeline.
+Apply methods for analyzing data with respect to the selection of machine learning model.
+Use selected machine learning techniques in practical assignments and projects.
+Use selected code libraries (frameworks) and development tools for machine learning.
+Compare and assess the applicability of different algorithms and techniques in connection with practical projects.
+Describe the importance of data quality in machine learning, and use selected data processing techniques to improve the quality of the data.
+
+Content:
+General machine learning concepts.
+Machine learning frameworks (Python libraries).
+Introduction to specific machine learning algorithms, for example linear/logistic regression and neural networks.
+Dimension reduction and visualization.
+Clustering.
+Data quality and Big data.

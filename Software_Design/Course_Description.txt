@@ -1,0 +1,19 @@
+In this course, the student will gain an understanding for design principles, patterns and practices which are fundamental to object oriented software design and for the development of maintainable, scalable and testable software.
+
+There is a plethora of principles, patterns etc. to aid the software developers work. The aim for this course is therefore – in addition to the introduction of the most common principles, patterns and practices - to introduce the terminology and critical view required for the independent acquisition of knowledge and understanding of new principles, patterns and practices.
+
+When the course is complete, the student is expected to be able to: 
+
+Use UML as a modeling and documentation tool.
+Explain, combine and use fundamental design principles for object oriented software development. (Including SOLID)
+Explain and use the term software architecture and related design principles.
+Explain, combine, compare, analyse and use selected design patterns.
+Describe, compare, and develop software with concurrency.
+Work independently and assume responsibility for own learning and technical focus.
+Carry out an oral presentation of the result of own investigations.
+
+Contents
+Object oriented analysis and design: Fundamental skills in object oriented software development and design.
+Design patterns: An introduction to the concept, appreciation of their applicability and the strength inherent in the combination of them.
+Development of concurrency: Design patterns and tools to develop software with concurrency.
+Software architecture: Assessment of widespread software architectures and tools to choose and combine architectures based on a given problem.

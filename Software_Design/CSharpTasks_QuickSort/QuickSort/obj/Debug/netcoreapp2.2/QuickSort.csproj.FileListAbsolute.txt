@@ -1,0 +1,11 @@
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/obj/Debug/netcoreapp2.2/QuickSort.csprojAssemblyReference.cache
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/obj/Debug/netcoreapp2.2/QuickSort.csproj.CoreCompileInputs.cache
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/obj/Debug/netcoreapp2.2/QuickSort.AssemblyInfoInputs.cache
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/obj/Debug/netcoreapp2.2/QuickSort.AssemblyInfo.cs
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/bin/Debug/netcoreapp2.2/QuickSort.deps.json
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/bin/Debug/netcoreapp2.2/QuickSort.runtimeconfig.json
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/bin/Debug/netcoreapp2.2/QuickSort.runtimeconfig.dev.json
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/bin/Debug/netcoreapp2.2/QuickSort.dll
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/bin/Debug/netcoreapp2.2/QuickSort.pdb
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/obj/Debug/netcoreapp2.2/QuickSort.dll
+/home/henrik/Dev/VisualCodeProjects/I4SWD/QuickSort/obj/Debug/netcoreapp2.2/QuickSort.pdb
