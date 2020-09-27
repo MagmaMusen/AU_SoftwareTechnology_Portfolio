@@ -1,0 +1,22 @@
+﻿<Window x:Class="Memento_WPF_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Memento_WPF_App"
+        mc:Ignorable="d"
+        Title="TextEditor" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <TextBox Name="EditorTxb" Grid.Row="0" Margin="5" AcceptsReturn="True" TextChanged="EditorTxb_OnTextChanged"/>
+        <StackPanel Grid.Row="1" Margin="5" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="UndoBut" Margin="10" Padding="10" Click="UndoBut_OnClick">Undo</Button>
+            <Button Name="RedoBut" Margin="10" Padding="10" Click="RedoBut_OnClick">Redo</Button>
+            <Button Name="SaveBut"  Margin="10" Padding="10" Click="SaveBut_OnClick">Save</Button>
+        </StackPanel>
+    </Grid>
+</Window>

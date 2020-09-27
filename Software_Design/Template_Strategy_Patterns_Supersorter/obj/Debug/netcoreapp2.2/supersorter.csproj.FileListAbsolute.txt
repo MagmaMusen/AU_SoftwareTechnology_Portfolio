@@ -1,0 +1,11 @@
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/bin/Debug/netcoreapp2.2/supersorter.deps.json
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/bin/Debug/netcoreapp2.2/supersorter.runtimeconfig.json
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/bin/Debug/netcoreapp2.2/supersorter.runtimeconfig.dev.json
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/bin/Debug/netcoreapp2.2/supersorter.dll
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/bin/Debug/netcoreapp2.2/supersorter.pdb
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/obj/Debug/netcoreapp2.2/supersorter.csprojAssemblyReference.cache
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/obj/Debug/netcoreapp2.2/supersorter.csproj.CoreCompileInputs.cache
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/obj/Debug/netcoreapp2.2/supersorter.AssemblyInfoInputs.cache
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/obj/Debug/netcoreapp2.2/supersorter.AssemblyInfo.cs
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/obj/Debug/netcoreapp2.2/supersorter.dll
+/home/henrik/Dev/VisualCodeProjects/I4SWD/supersorter/obj/Debug/netcoreapp2.2/supersorter.pdb
