@@ -1,0 +1,14 @@
+// Example graph for demonstrating Dijkstra's algorithm. 
+// The graph is taken from Drozdek
+A: E'1, H'10
+B: C'2
+C: D'4
+D: A'4, H'1
+E: F'3
+F: B'1, C'3. G'7, I'1
+G: 
+H: E'5, I'9
+I: J'2
+J: G'1
+
+
